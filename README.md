@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hey there! <br>🚀 I'm currently immersed in ITI Intensive Training <br>and developing awesome things.<br><br><br>💡 If you're curious about .net technologies or want to chat, I'm your go-to person! Feel free to reach out to me through my social media accounts</p>
+<p align="left">👋 Hey there! <br>🚀 I'm currently immersed in ITI Intensive Training and developing awesome things.<br><br>💡 If you're curious about .net technologies or want to chat, I'm your go-to person! Feel free to reach out to me through my social media accounts</p>
 
 ###
 

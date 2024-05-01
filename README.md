@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">👋 Hey there! <br>🚀 I'm currently immersed in ITI Intensive Training and developing awesome things.<br><br>💡 If you're curious about .net technologies or want to chat, I'm your go-to person! Feel free to reach out to me through my social media accounts</p>
+<p align="left">👋 Hey there!<br>
+A highly motivated Full-Stack .NET Developer with an Intensive Training Diploma from Information Technology Institute (ITI). With a strong foundation in.NET technologies such as ASP.NET Core MVC,Web API , SQL Server , CSS3 , Html5 , BootStrap and Angular, I am passionate about creating clean, maintainable, and efficient code.I am always eager to learn and remain up-to-date on the latest trends and technologies in the field. Seeking a new opportunity to leverage my technical expertise and passion for creating high-quality, efficient, and scalable software solutions.
+
+</p>
 
 ###
 
